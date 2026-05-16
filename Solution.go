@@ -1,6 +1,5 @@
 
 package main
-
 import "strings"
 
 func countWordOccurrences(chunks []string, queries []string) []int {
